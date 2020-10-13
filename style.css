@@ -1,0 +1,82 @@
+.header{
+	background-color: rgb(59,89,152);
+	width: auto;
+	height: 100px;
+}
+.fb{
+	padding-left: 180px;
+	color: white;
+	font-size: 40px;
+	padding-top: 30px;
+	font-family: Segoe UI;
+	font-weight: bold;
+	float: left;
+}
+.form{
+	padding-top: 30px;
+	padding-left: 800px;
+	color: white;
+}
+.pass2{
+	padding-left: 120px;
+}
+.forget{
+	color:  skyblue;
+	padding-left: 190px;
+}
+button{
+	background-color: rgb(59,89,152);
+	color: white;
+}
+.content-control{
+
+	width: 980px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.left{
+	float: left;
+	width: 400px;
+	margin-top: 20px;
+	color: rgb(59,89,152);
+	font-family: Segoe UI;
+	height: all;
+}
+.right{
+float:right;
+font-family: Segoe UI;
+}
+
+
+.in2{
+	width: 180px;
+	height: 30px;
+	border-radius: 7px;
+
+}
+.in3{
+	margin-top: 20px;
+	width: 390px;
+	height: 30px;
+	border-radius: 7px;
+
+}
+.birth{
+	margin-top: 20px;
+}
+.select{
+	width: 90px;
+	height: 23px;
+	border-radius: 4px;
+}
+
+.signup{
+	font-size: 20px;
+	color: white;
+	width: 200px;
+ height: 40px;
+background-color: #00A86B;
+border-radius: 5px; 
+}
